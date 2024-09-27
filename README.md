@@ -1,4 +1,6 @@
-# Aiyagari-Bewley-Huggett-Imrohoroglu-model
+# Aiyagari-Bewley-Huggett-Imrohoroglu model
+
+The code provided in this repository is designed to solve and simulate the finite Aiyagari-Bewley-Huggett-Imrohoroglu model with a borrowing constraint, which is described below.
 
 Households aim to maximize their expected lifetime utility, which is represented in this model by the discounted sum of logarithmic utility from consumption. The choice variables are consumption today $c_t$ and assets tomorrow $a_{t+1}$. As such, the optimization problem can be formulated as:
 
